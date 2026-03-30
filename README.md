@@ -8,13 +8,15 @@ Expertise Télécommunications et Couche Physique Développement Logiciel Orient
 - Licence 3 en Réseaux et Télécommunications | (DOUALA INSTITUTE OF TECHNOLOGY) (2020 - 2021)	 			        		
 - Licence 1 & 2 en Réseaux et Télécommunications | (Institut Universitaire de la Côte) (2018 - 2020)
 
+! [ARTIFICIAL STUFF] {/assets/img/artificial_stuff.png}
+
 ## Projets
 **Responsable informatique et réseau - G2FSARL (2023 - 2026)**
 - Direction du projet de migration vers une infrastructure Hybrid Cloud. Supervision du déploiement de l'automatisation via Python & GitOps
 - Introduction du versioning (Git) pour la configuration des équipements, sécurisant ainsi les interventions techniques et facilitant le travail collaboratif
 - Support niveau 3 & Expertise : Référent technique sur les problématiques de routage avancées et de sécurité périmétrale
 
-! [Artificial Stuff] {/assets/img/artificial_stuff.png}
+! [EMBEDDED Ways] {/assets/img/embedded_ways.png}
   
 
 **Administrateur système et sécurité - G2FSARL (2021 - 2023)**
