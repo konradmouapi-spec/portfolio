@@ -1,6 +1,6 @@
 # Administrateur systèmes, réseaux et sécurité
 
-### Compétences : 
+## Compétences : 
 - Architecture Cloud et Migration Hybride, Automatisation et GitOps (Infrastructure as Code)
 - Cybersécurité et Cryptographie Appliquée Ingénierie des Réseaux Critiques
 - Administration Systèmes Avancés (Linux/Windows)
