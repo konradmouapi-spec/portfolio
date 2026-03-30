@@ -13,6 +13,7 @@ Expertise Télécommunications et Couche Physique Développement Logiciel Orient
 - Direction du projet de migration vers une infrastructure Hybrid Cloud. Supervision du déploiement de l'automatisation via Python & GitOps
 - Introduction du versioning (Git) pour la configuration des équipements, sécurisant ainsi les interventions techniques et facilitant le travail collaboratif
 - Support niveau 3 & Expertise : Référent technique sur les problématiques de routage avancées et de sécurité périmétrale
+  
 
 **Administrateur système et sécurité - G2FSARL (2021 - 2023)**
 - Framework d'Audit de Conformité (Python et Git) : Création d'un outil automatisé vérifiant la conformité des configurations réseau.
@@ -20,5 +21,5 @@ Expertise Télécommunications et Couche Physique Développement Logiciel Orient
 - Maintien en condition de sécurité : Déploiement des correctifs de sécurité et configuration des tunnels VPN IPsec/SSL pour la sécurisation du télétravail
 
 ## Contacts
-- Email : konradmouapi@gmail.com
-- Phone : (237)698 920 345
+- Email : [Publication]konradmouapi@gmail.com
+- Phone : [Publication] (237)698 920 345
