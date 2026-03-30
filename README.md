@@ -1,6 +1,6 @@
 # Administrateur systèmes, réseaux et sécurité
 
-## Compétences: Architecture Cloud et Migration Hybride, Automatisation et GitOps (Infrastructure as Code), Cybersécurité et Cryptographie Appliquée Ingénierie des Réseaux Critiques, Administration Systèmes Avancés (Linux/Windows), Supervision et Analyse Temps Réel, Expertise Télécommunications et Couche Physique Développement Logiciel Orienté Réseau
+### Compétences: Architecture Cloud et Migration Hybride, Automatisation et GitOps (Infrastructure as Code), Cybersécurité et Cryptographie Appliquée Ingénierie des Réseaux Critiques, Administration Systèmes Avancés (Linux/Windows), Supervision et Analyse Temps Réel, Expertise Télécommunications et Couche Physique Développement Logiciel Orienté Réseau
 
 ## Formation
 - Master 1 en Réseaux et Sécurité | DOUALA INSTITUTE OF TECHNOLOGY (2022 - 2023)						       		
