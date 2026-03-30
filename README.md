@@ -25,5 +25,4 @@
 
 ## Contacts
 - Email : <a href="mailto:konradmouapi@gmail.com?subject=Inquiry%20Regarding%20Master%20Portfolio%20-%20CESI" class="contact-link">konradmouapi@gmail.com</a>
-</p>
 - Phone : <a href="tel:+237698920345" class="contact-link">+237 698 920 345</a>
