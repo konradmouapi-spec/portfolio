@@ -7,7 +7,7 @@
 - Licence 3 en Réseaux et Télécommunications | (DOUALA INSTITUTE OF TECHNOLOGY) (2020 - 2021)	 			        		
 - Licence 1 & 2 en Réseaux et Télécommunications | (Institut Universitaire de la Côte) (2018 - 2020)
 
-! [ARTIFICIAL STUFF](/assets/img/artificial_stuff.jpg)
+<img src="assets/img/artificial_stuff.jpg" class="project-img">
 
 ## Projets
 **Responsable informatique et réseau - G2FSARL (2023 - 2026)**
