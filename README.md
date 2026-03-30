@@ -1,7 +1,6 @@
 # Administrateur systèmes, réseaux et sécurité
 
-#### Compétences: Architecture Cloud et Migration Hybride, Automatisation et GitOps (Infrastructure as Code), Cybersécurité et Cryptographie Appliquée Ingénierie des Réseaux Critiques, Administration Systèmes Avancés (Linux/Windows), Supervision et Analyse Temps Réel,
-Expertise Télécommunications et Couche Physique Développement Logiciel Orienté Réseau
+#### Compétences: Architecture Cloud et Migration Hybride, Automatisation et GitOps (Infrastructure as Code), Cybersécurité et Cryptographie Appliquée Ingénierie des Réseaux Critiques, Administration Systèmes Avancés (Linux/Windows), Supervision et Analyse Temps Réel, Expertise Télécommunications et Couche Physique Développement Logiciel Orienté Réseau
 
 ## Formation
 - Master 1 en Réseaux et Sécurité | DOUALA INSTITUTE OF TECHNOLOGY (2022 - 2023)						       		
@@ -25,5 +24,6 @@ Expertise Télécommunications et Couche Physique Développement Logiciel Orient
 - Maintien en condition de sécurité : Déploiement des correctifs de sécurité et configuration des tunnels VPN IPsec/SSL pour la sécurisation du télétravail
 
 ## Contacts
-- Email : [Publication]konradmouapi@gmail.com
+- Email : <a href="mailto:konradmouapi@gmail.com?subject=Inquiry%20Regarding%20Master%20Portfolio%20-%20CESI" class="contact-link">konradmouapi@gmail.com</a>
+</p>
 - Phone : <a href="tel:+237698920345" class="contact-link">+237 698 920 345</a>
