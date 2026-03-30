@@ -13,6 +13,8 @@ Expertise Télécommunications et Couche Physique Développement Logiciel Orient
 - Direction du projet de migration vers une infrastructure Hybrid Cloud. Supervision du déploiement de l'automatisation via Python & GitOps
 - Introduction du versioning (Git) pour la configuration des équipements, sécurisant ainsi les interventions techniques et facilitant le travail collaboratif
 - Support niveau 3 & Expertise : Référent technique sur les problématiques de routage avancées et de sécurité périmétrale
+
+! [Artificial Stuff] {/assets/img/artificial_stuff.png}
   
 
 **Administrateur système et sécurité - G2FSARL (2021 - 2023)**
