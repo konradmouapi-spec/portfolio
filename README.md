@@ -19,6 +19,6 @@ Expertise Télécommunications et Couche Physique Développement Logiciel Orient
 - Mise en place de protocoles sécurisés (Java) : Développement d'une application Client/Serveur multithreadée avec chiffrement de bout en bout (RSA/AES)
 - Maintien en condition de sécurité : Déploiement des correctifs de sécurité et configuration des tunnels VPN IPsec/SSL pour la sécurisation du télétravail
 
-##Contacts
+## Contacts
 - Email : konradmouapi@gmail.com
 - Phone : (237)698 920 345
